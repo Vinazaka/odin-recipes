@@ -1,0 +1,44 @@
+.header {
+    text-align: center;
+}
+
+.list {
+    text-align: center;
+}
+
+ul {
+    display: inline-block;
+    text-align: left;
+}
+
+ol {
+    display: inline-block;
+    text-align: left;
+}
+
+p {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: auto;
+}
+
+.link {
+    text-align: center;
+}
+
+#main-page {
+    background-color: #F3FFE3;
+}
+
+#protein-shake {
+    background-color: #FFCBC1;
+}
+
+#tofu-and-rice {
+    background-color: #DBFFD6;
+}
