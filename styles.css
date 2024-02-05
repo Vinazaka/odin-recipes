@@ -6,6 +6,27 @@
     text-align: center;
 }
 
+
+.index.header {
+    background-color: white;
+    margin: 0 300px;
+    margin-top: 25px;
+    padding-top: 10px;
+    border-style: solid;
+    border-bottom: 0;
+    border-color: black;
+}
+
+.index.list {
+    background-color: white;
+    margin: 0 300px;
+    border-color: black;
+    padding-bottom: 10px;
+    border-style: solid;
+    border-color: black;
+    border-top: 0;
+}
+
 ul {
     display: inline-block;
     text-align: left;
@@ -17,6 +38,11 @@ ol {
 }
 
 p {
+    text-align: center;
+}
+
+li {
+    display: block;
     text-align: center;
 }
 
@@ -41,4 +67,16 @@ img {
 
 #tofu-and-rice {
     background-color: #DBFFD6;
+}
+
+#p-shake {
+    padding: 10px;
+}
+
+#p-oatmeal {
+    padding: 10px;
+}
+
+#t-and-r {
+    padding: 10px;
 }
